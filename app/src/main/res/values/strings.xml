@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSLocation</string>
+    <string name="location_denied">Location is NOT granted!</string>
+    <string name="location_granted">Location is granted!</string>
+</resources>
